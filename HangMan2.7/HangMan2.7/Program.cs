@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Linq;
 
-namespace HangMan
+namespace HangMan2.7
 {
     class Program
     {
