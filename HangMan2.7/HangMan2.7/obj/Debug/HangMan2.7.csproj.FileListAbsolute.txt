@@ -1,0 +1,7 @@
+C:\Users\Aurelius T. Klíma\source\repos\HangMan2.7\HangMan2.7\bin\Debug\HangMan2.7.exe.config
+C:\Users\Aurelius T. Klíma\source\repos\HangMan2.7\HangMan2.7\bin\Debug\HangMan2.7.exe
+C:\Users\Aurelius T. Klíma\source\repos\HangMan2.7\HangMan2.7\bin\Debug\HangMan2.7.pdb
+C:\Users\Aurelius T. Klíma\source\repos\HangMan2.7\HangMan2.7\obj\Debug\HangMan2.7.csproj.AssemblyReference.cache
+C:\Users\Aurelius T. Klíma\source\repos\HangMan2.7\HangMan2.7\obj\Debug\HangMan2.7.csproj.CoreCompileInputs.cache
+C:\Users\Aurelius T. Klíma\source\repos\HangMan2.7\HangMan2.7\obj\Debug\HangMan2.7.exe
+C:\Users\Aurelius T. Klíma\source\repos\HangMan2.7\HangMan2.7\obj\Debug\HangMan2.7.pdb
